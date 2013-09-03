@@ -1,0 +1,13 @@
+Workload Stress 1	Tiny Objects (004KB,128KB,512KB)	1000	001,100	x	x	x		
+Workload Stress 2	Small Objects (001MB,032MB,064MB)	1000	001,100	x	x	x		
+Workload Stress 3	Medium Objects (128MB,256MB,512MB)	1000	001,100	x	x	x		
+Workload Stress 4	Large Objects (001GB)	100	001,100	x	x	x		
+Workload Stress 5	Giant Objects (2GB,4GB)	10	001,100	x	x	x		
+Workload Stress 6	Backup Small Range (0100-2048)KB	5000	001,100				x	
+Workload Stress 7	Backup Med Range (100-500)MB	5000	001,100				x	
+Workload Stress 8	Backup Large Range (2-5)GB	500	001,100				x	
+Workload Stress 9	Fileshare Small (004-128)KB	2000	001,100					x
+Workload Stress 10	Fileshae Med (100-500)MB	5000	001,100					x
+Workload Stress 11	Mix Usage Small (0100-2048)KB	2500	001,100				x	
+Workload Stress 12	Mix Usage Med (0100-500)MB	2500	001,100				x	
+Workload Stress 13	Mix Usage Large (2-5)GB	250	001,100				x	
